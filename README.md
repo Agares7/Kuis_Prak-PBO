@@ -1,11 +1,14 @@
 # Kuis_Prak-PBO
 Nama : Ardhian Kusumayuda
+
 NIM : 123200144
+
 Plug : IF - F
 
 File codingan berada pada Kuis_PBO\src
 
 Soal :
+
   Buatlah sebuah program sederhana tentang seleksi divisi Android development & Web development di sebuah perusahaan.
   Pertama, user akan masuk ke menu, kemudian akan diminta untuk memilih antara Android
   Development atau Web Development.
